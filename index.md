@@ -1,6 +1,7 @@
 **Notes to self:**
-- sequence diagram of the whole process
+- sequence diagram of the whole process?
 
+- who can organize the funeral
 - all the offices and documents
 
 - cremation
