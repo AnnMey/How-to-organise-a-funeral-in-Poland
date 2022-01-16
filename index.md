@@ -1,7 +1,11 @@
 **Notes to self:**
+- sequence diagram of the whole process
+
 - all the offices and documents
+
 - cremation
 - cascets
+
 - all the things you choose at the funeral home
 
 # How to arrange a funeral in Poland
