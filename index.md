@@ -8,7 +8,7 @@
 
 - all the things you choose at the funeral home
 
-# How to arrange a funeral in Poland
+# How to organise a funeral in Poland
   
   ## Introduction
   
