@@ -37,5 +37,6 @@
 
   ## FAQ
   - How much is the funeral grant in Poland?
+  - Does the funeral grant enough to cover all costs?
   - How to apply for the funeral grant?
   - Can I scatter the ashes?
