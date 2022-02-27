@@ -1,3 +1,7 @@
+**To-Do**  
+- Make a list of Topics until 12 March
+- Review structure
+
 **Notes to self:**
 - sequence diagram of the whole process
 
