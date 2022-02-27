@@ -1,7 +1,7 @@
 **To-Do**  
 - Make a list of Topics until 12 March
 - Review structure
-- Choose tool (Docs-as-code VS MadCap Flare)
+- Choose tool (Docs-as-code VS MadCap Flare VS DITA XML)
 - Create Persona
 
 **Notes to self:**
