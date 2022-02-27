@@ -2,6 +2,7 @@
 - Make a list of Topics until 12 March
 - Review structure
 - Choose tool (Docs-as-code VS MadCap Flare)
+- Create Persona
 
 **Notes to self:**
 - sequence diagram of the whole process
