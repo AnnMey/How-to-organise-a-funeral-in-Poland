@@ -11,6 +11,7 @@
 ## Death at a hospital
 ## Death in an accident
 ## Death abroad
+## Transport of the body
 ## Natural vs unnatural causes vs crime
   
 # Register the death 
@@ -26,6 +27,8 @@
 ## Organise a wake
 
 # Cremation
+
+# Exhumation
 
 # Religious vs secular burial
 
