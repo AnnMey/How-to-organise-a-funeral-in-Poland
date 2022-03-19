@@ -1,8 +1,10 @@
-# Introduction
+# Introduction: How to organise a funeral in Poland
 
 # Legal foundation 
 ## Cemeteries and Burials Act of 31 January 1959
 ## 2022: New Cemeteries and Burials Act
+
+# Necessary documents
 
 # Report the death
 ## Death at home
@@ -16,6 +18,14 @@
 ## Who can register
 
 # The effect of the COVID-19 pandemic
+
+# Arranging the funeral
+## Arrange the burial date
+## Choose a funeral home
+## Organise a rosary prayer
+## Organise a wake
+
+# Cremation
 
 # Religious vs secular burial
 
