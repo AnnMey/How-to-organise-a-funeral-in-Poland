@@ -6,7 +6,7 @@
 
 # Necessary documents
 
-# Report the death
+# Reporting the death
 ## Death at home
 ## Death at a hospital
 ## Death in an accident
@@ -14,7 +14,7 @@
 ## Transport of the body
 ## Natural vs unnatural causes vs crime
   
-# Register the death 
+# Registering the death 
 ## Where to register
 ## Who can register
 
