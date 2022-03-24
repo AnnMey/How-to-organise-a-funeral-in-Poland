@@ -26,20 +26,12 @@
 ## Organise a wake
 
 ## Clothing
-## If the body cannot be dressed
+## If the body cannot be dressed (COVID-19)
 ## Rosary
 ## Flowers 
-## Temporary cross
-## Temporary frame
 
-# Music
-
-# Cremation
-
-# Exhumation
-
-# Religious vs secular burial
-## Funeral officiant fee
+## Music
+## Cremation
 
 # Total cost of the burial
 
@@ -50,14 +42,21 @@
 
 # After the funeral
 ## Tidy the tomb
+* Temporary cross
+* Temporary frame
 ## Choose a tombstone
 ## Arrange grave care services
+
+# Religious vs secular burial
+## Funeral officiant fee
 
 # Funeral traditions in Poland
 
 # Legal foundation 
 ## Cemeteries and Burials Act of 31 January 1959
 ## 2022: New Cemeteries and Burials Act
+
+# Exhumation
 
 # Frequently Asked Questions (FAQ)
 * How much is the funeral grant in Poland?
