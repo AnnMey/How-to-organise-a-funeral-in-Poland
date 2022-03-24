@@ -1,9 +1,5 @@
 # Introduction: Burials in Poland
 
-# Legal foundation 
-## Cemeteries and Burials Act of 31 January 1959
-## 2022: New Cemeteries and Burials Act
-
 # Necessary documents
 * Necessary documents – checklist to download
 
@@ -23,6 +19,8 @@
 
 # Arranging the funeral
 ## Arrange the burial date
+## Cemetary plot fees
+## Cost of digging a grave
 ## Choose a funeral home
 ## Organise a rosary prayer
 ## Organise a wake
@@ -41,6 +39,7 @@
 # Exhumation
 
 # Religious vs secular burial
+## Funeral officiant fee
 
 # Total cost of the burial
 
@@ -56,9 +55,14 @@
 
 # Funeral traditions in Poland
 
+# Legal foundation 
+## Cemeteries and Burials Act of 31 January 1959
+## 2022: New Cemeteries and Burials Act
+
 # Frequently Asked Questions (FAQ)
 * How much is the funeral grant in Poland?
 * Is the funeral grant enough to cover all costs?
 * How to apply for the funeral grant?
 * Who can apply for the funeral grant?
 * Can I scatter the ashes?
+* Do I have to buy the plot for 20 years?
