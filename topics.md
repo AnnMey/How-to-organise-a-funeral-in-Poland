@@ -1,5 +1,7 @@
 # Introduction: Burials in Poland
 
+# Who is entitled to arrange a burial
+
 # Necessary documents
 * Necessary documents – checklist to download
 
