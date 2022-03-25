@@ -1,6 +1,6 @@
 # Introduction: Burials in Poland
 
-# Who is entitled to arrange a burial
+# Who can organise a burial
 
 # Necessary documents
 * Necessary documents – checklist to download
@@ -19,6 +19,7 @@
 ## Who can register
 
 # Cremation
+## Cost of cremation
 
 # Arranging the funeral
 ## Arrange the burial date
