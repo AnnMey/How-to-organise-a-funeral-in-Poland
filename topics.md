@@ -8,8 +8,9 @@
 ## Death at a hospital
 ## Death in an accident
 ## Death abroad
-## Transport of the body
 ## Natural vs unnatural causes vs crime
+
+# Transport of the body
   
 # Registering the death 
 ## Where to register
