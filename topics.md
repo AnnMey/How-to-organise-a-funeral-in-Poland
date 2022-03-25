@@ -59,7 +59,5 @@
 # Frequently Asked Questions (FAQ)
 * How much is the funeral grant in Poland?
 * Is the funeral grant enough to cover all costs?
-* How to apply for the funeral grant?
-* Who can apply for the funeral grant?
 * Can I scatter the ashes?
 * Do I have to buy the plot for 20 years?
