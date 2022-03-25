@@ -16,7 +16,7 @@
 ## Where to register
 ## Who can register
 
-# The effect of the COVID-19 pandemic
+# Cremation
 
 # Arranging the funeral
 ## Arrange the burial date
@@ -25,21 +25,14 @@
 ## Choose a funeral home
 ## Organise a rosary prayer
 ## Organise a wake
-
 ## Clothing
 ## If the body cannot be dressed (COVID-19)
 ## Rosary
 ## Flowers 
-
 ## Music
-## Cremation
 
-# Total cost of the burial
-
-# Funeral grant
-## How to apply
-## What is the amount of the funeral grant
-## Who is entitled to
+# Religious vs secular burial
+## Funeral officiant fee
 
 # After the funeral
 ## Tidy the tomb
@@ -48,10 +41,14 @@
 ## Choose a tombstone
 ## Arrange grave care services
 
-# Religious vs secular burial
-## Funeral officiant fee
+# Total cost of the burial
 
-# Funeral traditions in Poland
+# Funeral grant
+## How to apply
+## What is the amount of the funeral grant
+## Who is entitled to
+
+# The effect of the COVID-19 pandemic
 
 # Legal foundation 
 ## Cemeteries and Burials Act of 31 January 1959
