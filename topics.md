@@ -3,6 +3,7 @@
 # Who can organise a burial
 
 # Necessary documents
+## What documents are required
 * Necessary documents – checklist to download
 
 # Reporting the death
@@ -13,6 +14,8 @@
 ## Natural vs unnatural causes vs crime
 
 # Transport of the body
+
+# What services can a funeral home provide
   
 # Registering the death 
 ## Where to register
