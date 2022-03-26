@@ -1,9 +1,10 @@
 **To-Do**  
-- Make a list of Topics - done
+- Make a list of Topics - [done](topics.md)
 - Review structure - done
 - Choose tool - MadCap Flare
 - Choose input/outpu formats - done
 - Create Persona - done
+- Add sources - [done](bibliography.md)
 
 **Notes to self:**
 - sequence diagram of the whole process - ?
