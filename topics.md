@@ -69,4 +69,4 @@
 * Do I have to buy the plot for 20 years?
 
 # Bibliography
-Here are the [spources](myLib/README.md) used to create this documentation.
+Here are the [sources](bibliography.md) used to create this documentation.
