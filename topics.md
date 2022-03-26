@@ -67,3 +67,6 @@
 * Is the funeral grant enough to cover all costs?
 * Can I scatter the ashes?
 * Do I have to buy the plot for 20 years?
+
+# Bibliography
+Here are the [spources](myLib/README.md) used to create this documentation.
