@@ -26,7 +26,7 @@
 
 # Arranging the funeral
 ## Arrange the burial date
-## Cemetary plot fees
+## Cemetery plot fee
 ## Cost of digging a grave
 ## Choose a funeral home
 ## Organise a rosary prayer
