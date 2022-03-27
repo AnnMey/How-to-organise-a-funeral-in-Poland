@@ -54,9 +54,9 @@
 ## Who can apply
 ## How to apply 
 ## Where to apply 
+* Institutions providing social security
 ## What documents are required
 ## When to apply 
-## How long does it take
 ## What is the amount of the funeral grant
 
 # The effect of the COVID-19 pandemic
