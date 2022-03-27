@@ -9,5 +9,6 @@
 * https://www.krus.gov.pl/zadania-krus/swiadczenia/swiadczenia-z-ubezpieczenia-emerytalno-rentowego/zasilek-pogrzebowy/
 * http://krzysztof.waw.pl/index.php/pl/Lewe-menu/Krematoria-w-Polsce
 * https://lang.zus.pl/benefits/funeral-grants
+* https://pixabay.com/pl/photos/mg%c5%82a-drzewa-%c5%82%c4%85ka-czarny-i-bia%c5%82y-2756456/
 * https://polki.pl/praca-i-finanse/porady-prawne,gdy-bliski-odchodzi,10008603,artykul.html
 * https://powroty.gov.pl/web/powroty/-/utrata-bliskiej-osoby-5386
