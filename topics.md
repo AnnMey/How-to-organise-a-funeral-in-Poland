@@ -1,4 +1,4 @@
-# Introduction: Burials in Poland
+# Burials in Poland - landing page
 
 # Who can organise a burial
 
