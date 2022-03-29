@@ -5,7 +5,10 @@
 - Choose input/outpu formats - done
 - Create Persona - done (more or less)
 - Add sources - [done](bibliography.md)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 - ADD: KRUS and other social security institutions, burial abroad
+- VAT INVOICE icluding the word “trumna”
 
 **Notes to self:**
 - sequence diagram of the whole process - ?
