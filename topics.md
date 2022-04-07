@@ -48,6 +48,7 @@
 ## Arrange grave care services
 
 # Total cost of the burial
+* Necessary things (the bare minimum) 
 
 # Funeral grant
 ## Who is entitled to the funeral grant
@@ -69,9 +70,13 @@
 
 # Frequently Asked Questions (FAQ)
 * How much is the funeral grant in Poland?
-* Is the funeral grant enough to cover all costs?
+* Is the funeral grant enough to cover all costs? 
+* How much does a funeral cost in Poland? 
+* What is the difference between karta zgonu and akt zgonu? 
 * Can I scatter the ashes?
 * Do I have to buy the plot for 20 years?
+--- NEW ---
+* 
 
 # Bibliography
 Here are the [sources](bibliography.md) used to create this documentation.
