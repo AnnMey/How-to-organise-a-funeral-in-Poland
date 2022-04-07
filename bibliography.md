@@ -6,6 +6,7 @@
 * https://www.gov.pl/web/gov/zglos-zgon
 * https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19590110062
 * https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20140001741/U/D20141741Lj.pdf
+* https://kremacje.eu/
 * https://www.krus.gov.pl/zadania-krus/swiadczenia/swiadczenia-z-ubezpieczenia-emerytalno-rentowego/zasilek-pogrzebowy/
 * http://krzysztof.waw.pl/index.php/pl/Lewe-menu/Krematoria-w-Polsce
 * https://lang.zus.pl/benefits/funeral-grants
