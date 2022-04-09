@@ -10,6 +10,8 @@
 - ADD: KRUS and other social security institutions, burial abroad
 - VAT INVOICE icluding the word “trumna”
 
+# Publish content in Confluence
+
 **Notes to self:**
 - sequence diagram of the whole process - ?
 - Funeral traditions in Poland - ?
