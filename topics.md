@@ -32,8 +32,8 @@
 ## Organise a rosary prayer
 ## Organise a wake
 ## Clothing
+* Rosary
 * If the body cannot be dressed (COVID-19)
-## Rosary
 ## Flowers 
 ## Music
 
