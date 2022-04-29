@@ -1,1 +1,1 @@
-define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/00_Who_can_organise_a_burial/Closest_family_members.htm'],s:['00','rent'],p:[['00',0],['contacting',13],['insurance',1],['receive',32],['within',10]]});
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/00_Who_can_organise_a_burial/Closest_family_members.htm'],s:['00','rememb'],p:[['00',0],['contact',12],['instead',41],['rabies',10],['widely',41]]});
