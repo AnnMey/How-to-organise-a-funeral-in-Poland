@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Glossary_Chunk',terms:[{t:'death card',c:0},{t:'death certificate',c:0},{t:'hearse',c:0},{t:'morgue',c:0}]});
