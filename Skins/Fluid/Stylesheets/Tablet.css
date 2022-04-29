@@ -83,12 +83,11 @@
 
 	.title-bar-layout a.logo
 	{
+		background-position: center center;
 		top: 0;
 		margin: 0;
-		width: 512px;
-		height: 512px;
-		background: transparent url('Images/black-ribbon.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/black-ribbon.png') no-repeat center center;
+		background-repeat: no-repeat;
+		background: none;
 	}
 
 	.title-bar .menu-icon span
@@ -307,13 +306,13 @@
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 512px;
+		min-height: 40px;
 		flex-basis: 100%;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 512px;
+		min-height: 40px;
 	}
 
 	.off-canvas-wrapper-inner .outer-row

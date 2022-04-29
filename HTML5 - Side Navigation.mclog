@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2021 r3 Generated HTML5 - Side Navigation.fltar" Date="2022-04-29T08:29:43.3310074+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2021 r3 Generated HTML5 - Side Navigation.fltar" Date="2022-04-29T08:36:56.4515922+02:00">
     <Messages>Compiling target HTML5 - Side Navigation...
 Removing previously generated content...
 Loading skin info...
@@ -116,7 +116,7 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
 Ignored Compiler Warnings: 1
-Output generated in 23 second(s).
+Output generated in 15 second(s).
 
 Done
 Saving log to "C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Output\Asus\HTML5 - Side Navigation\HTML5 - Side Navigation.mclog"

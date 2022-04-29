@@ -11,10 +11,9 @@
 
 	.title-bar-layout a.logo
 	{
-		width: 512px;
-		height: 512px;
-		background: transparent url('Images/black-ribbon.png') no-repeat center center;
-		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/black-ribbon.png') no-repeat center center;
+		background-position: center center;
+		background-repeat: no-repeat;
+		background: none;
 	}
 
 	.search-bar .search-submit
@@ -147,12 +146,12 @@
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 512px;
+		min-height: 40px;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 512px;
+		min-height: 40px;
 	}
 
 	.off-canvas-wrapper-inner .main-section > .outer-row

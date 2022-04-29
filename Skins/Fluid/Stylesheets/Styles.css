@@ -327,7 +327,6 @@ nav.title-bar .menu-icon
 	display: flex;
 	flex: 0 1 auto;
 	order: 1;
-	min-height: 512px;
 	align-self: center;
 	justify-content: flex-start;
 }
@@ -337,13 +336,14 @@ nav.title-bar .menu-icon
 	border: none;
 	padding: 0;
 	margin: 0;
+	width: 182px;
+	height: 42px;
 	z-index: 1;
-	display: block;
-	width: 512px;
-	height: 512px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	display: none;
 	align-self: center;
-	background: transparent url('Images/black-ribbon.png') no-repeat center center;
-	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/black-ribbon.png') no-repeat center center;
+	background: none;
 }
 
 .title-bar-container
@@ -781,11 +781,6 @@ div.central-dropdown-content > a:hover
 .off-canvas-wrapper-inner .title-bar-container
 {
 	flex: 0 1 auto;
-}
-
-.menu-icon-container
-{
-	min-height: 512px;
 }
 
 .off-canvas-wrapper-inner .outer-row
