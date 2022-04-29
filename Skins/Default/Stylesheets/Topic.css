@@ -430,16 +430,6 @@ a.glossaryTerm
 	opacity: 0;
 }
 
-div.MCBreadcrumbsBox_0
-{
-	border-bottom-width: 0;
-	color: #888888;
-	border-bottom-style: solid;
-	border-bottom-color: black;
-	padding-bottom: 10px;
-	margin-bottom: 10px;
-}
-
 .glossaryTerm
 {
 	font-weight: bold;
@@ -475,6 +465,16 @@ div.MCBreadcrumbsBox_0
 	border: solid 1px #000000;
 	margin: 0px;
 	padding: 5px;
+}
+
+div.MCBreadcrumbsBox_0
+{
+	border-bottom-width: 0;
+	color: #888888;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
 }
 
 .MCWebHelpFramesetLink a

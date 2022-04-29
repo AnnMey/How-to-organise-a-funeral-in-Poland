@@ -430,16 +430,6 @@
 	opacity: 0;
 }
 
-.micro-response div.MCBreadcrumbsBox_0
-{
-	border-bottom-width: 0;
-	color: #888888;
-	border-bottom-style: solid;
-	border-bottom-color: black;
-	padding-bottom: 10px;
-	margin-bottom: 10px;
-}
-
 .micro-response .glossaryTerm
 {
 	font-weight: bold;
@@ -475,6 +465,16 @@
 	border: solid 1px #000000;
 	margin: 0px;
 	padding: 5px;
+}
+
+.micro-response div.MCBreadcrumbsBox_0
+{
+	border-bottom-width: 0;
+	color: #888888;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
 }
 
 .micro-response .MCWebHelpFramesetLink a
