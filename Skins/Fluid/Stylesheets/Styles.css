@@ -1341,7 +1341,7 @@ ul.sidenav li.is-accordion-submenu-parent > a span.submenu-toggle:hover
 
 ul.sidenav li a.selected
 {
-	color: #483d8b;
+	color: #a9a9a9;
 	font-weight: bold;
 }
 
