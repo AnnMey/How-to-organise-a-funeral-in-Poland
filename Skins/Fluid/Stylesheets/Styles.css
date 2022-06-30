@@ -283,8 +283,8 @@ nav.title-bar
 	background-position: center top;
 	padding-top: 25px;
 	padding-bottom: 25px;
-	background: #303335 none;
-	-pie-background: #303335;
+	background: #191126 none;
+	-pie-background: #191126;
 }
 
 nav.title-bar .menu-icon
@@ -327,6 +327,7 @@ nav.title-bar .menu-icon
 	display: flex;
 	flex: 0 1 auto;
 	order: 1;
+	min-height: 85px;
 	align-self: center;
 	justify-content: flex-start;
 }
@@ -336,14 +337,13 @@ nav.title-bar .menu-icon
 	border: none;
 	padding: 0;
 	margin: 0;
-	width: 182px;
-	height: 42px;
 	z-index: 1;
-	background-repeat: no-repeat;
-	background-position: center center;
-	display: none;
+	display: block;
+	width: 200px;
+	height: 85px;
 	align-self: center;
-	background: none;
+	background: transparent url('Images/rose_1.png') no-repeat center center;
+	-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/rose_1.png') no-repeat center center;
 }
 
 .title-bar-container
@@ -546,7 +546,7 @@ html[dir='rtl'] .sidenav-layout
 	overflow: auto;
 	width: 20%;
 	display: block;
-	background-color: #45494c;
+	background-color: #191126;
 }
 
 .sidenav-wrapper ul ul.is-accordion-submenu
@@ -565,7 +565,8 @@ html[dir='rtl'] .sidenav-layout
 
 ul.sidenav li a:hover
 {
-	background-color: #303335;
+	font-weight: bold;
+	background-color: #191126;
 }
 
 ul.sidenav ul > li > a
@@ -574,21 +575,49 @@ ul.sidenav ul > li > a
 	margin-left: 2em;
 	padding-top: 0.3em;
 	padding-bottom: 0.3em;
+	background: -moz-linear-gradient(top, #191126 0%, transparent 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#191126), color-stop(100%,transparent));
+	background: -webkit-linear-gradient(top, #191126 0%, transparent 100%);
+	background: -o-linear-gradient(top, #191126 0%,transparent 100%);
+	background: -ms-linear-gradient(top, #191126 0%,transparent 100%);
+	background: linear-gradient(top, #191126 0%,transparent 100%);
+	-pie-background: linear-gradient(#191126, transparent);
 }
 
 ul.sidenav ul ul > li > a
 {
 	margin-left: 4em;
+	background: -moz-linear-gradient(top, #191126 0%, transparent 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#191126), color-stop(100%,transparent));
+	background: -webkit-linear-gradient(top, #191126 0%, transparent 100%);
+	background: -o-linear-gradient(top, #191126 0%,transparent 100%);
+	background: -ms-linear-gradient(top, #191126 0%,transparent 100%);
+	background: linear-gradient(top, #191126 0%,transparent 100%);
+	-pie-background: linear-gradient(#191126, transparent);
 }
 
 ul.sidenav ul ul ul > li > a
 {
 	margin-left: 6em;
+	background: -moz-linear-gradient(top, #191126 0%, transparent 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#191126), color-stop(100%,transparent));
+	background: -webkit-linear-gradient(top, #191126 0%, transparent 100%);
+	background: -o-linear-gradient(top, #191126 0%,transparent 100%);
+	background: -ms-linear-gradient(top, #191126 0%,transparent 100%);
+	background: linear-gradient(top, #191126 0%,transparent 100%);
+	-pie-background: linear-gradient(#191126, transparent);
 }
 
 ul.sidenav ul ul ul ul > li > a
 {
 	margin-left: 8em;
+	background: -moz-linear-gradient(top, #191126 0%, transparent 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#191126), color-stop(100%,transparent));
+	background: -webkit-linear-gradient(top, #191126 0%, transparent 100%);
+	background: -o-linear-gradient(top, #191126 0%,transparent 100%);
+	background: -ms-linear-gradient(top, #191126 0%,transparent 100%);
+	background: linear-gradient(top, #191126 0%,transparent 100%);
+	-pie-background: linear-gradient(#191126, transparent);
 }
 
 /* Pulse.htm */
@@ -781,6 +810,11 @@ div.central-dropdown-content > a:hover
 .off-canvas-wrapper-inner .title-bar-container
 {
 	flex: 0 1 auto;
+}
+
+.menu-icon-container
+{
+	min-height: 85px;
 }
 
 .off-canvas-wrapper-inner .outer-row
@@ -1281,7 +1315,7 @@ h1#results-heading
 
 .sidenav-container ul ul
 {
-	background-color: #45494c;
+	background-color: #191126;
 }
 
 .sidenav-container
@@ -1300,8 +1334,16 @@ ul.sidenav li a
 	padding-bottom: 0.67rem;
 	color: #ffffff;
 	font-family: Arial;
-	font-size: 1em;
+	font-size: 1.2em;
+	font-weight: normal;
 	line-height: 1.6em;
+	background: -moz-linear-gradient(top, #191126 0%, transparent 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#191126), color-stop(100%,transparent));
+	background: -webkit-linear-gradient(top, #191126 0%, transparent 100%);
+	background: -o-linear-gradient(top, #191126 0%,transparent 100%);
+	background: -ms-linear-gradient(top, #191126 0%,transparent 100%);
+	background: linear-gradient(top, #191126 0%,transparent 100%);
+	-pie-background: linear-gradient(#191126, transparent);
 }
 
 ul.sidenav li
@@ -1316,22 +1358,22 @@ ul.sidenav li.is-accordion-submenu-parent > a span.submenu-toggle
 
 ul.sidenav ul > li > a:hover
 {
-	background-color: #303335;
+	background-color: #191126;
 }
 
 ul.sidenav ul ul > li > a:hover
 {
-	background-color: #303335;
+	background-color: #191126;
 }
 
 ul.sidenav ul ul ul > li > a:hover
 {
-	background-color: #303335;
+	background-color: #191126;
 }
 
 ul.sidenav ul ul ul ul > li > a:hover
 {
-	background-color: #303335;
+	background-color: #191126;
 }
 
 ul.sidenav li.is-accordion-submenu-parent > a span.submenu-toggle:hover

@@ -58,7 +58,8 @@
 		background-repeat: no-repeat;
 		padding-top: 15px;
 		padding-bottom: 15px;
-		background: none;
+		background: #191126 none;
+		-pie-background: #191126;
 	}
 
 	/* Topbar Menu Styles */
@@ -83,11 +84,12 @@
 
 	.title-bar-layout a.logo
 	{
-		background-position: center center;
 		top: 0;
 		margin: 0;
-		background-repeat: no-repeat;
-		background: none;
+		width: 200px;
+		height: 85px;
+		background: transparent url('Images/rose_1.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Fluid/Stylesheets/Images/rose_1.png') no-repeat center center;
 	}
 
 	.title-bar .menu-icon span
@@ -306,13 +308,13 @@
 
 	.title-bar-layout .logo-wrapper
 	{
-		min-height: 40px;
+		min-height: 85px;
 		flex-basis: 100%;
 	}
 
 	.menu-icon-container
 	{
-		min-height: 40px;
+		min-height: 85px;
 	}
 
 	.off-canvas-wrapper-inner .outer-row

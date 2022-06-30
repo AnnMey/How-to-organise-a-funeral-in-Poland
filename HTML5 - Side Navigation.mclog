@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2021 r3 Generated HTML5 - Side Navigation.fltar" Date="2022-05-13T20:25:09.0710683+02:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2021 r3 Generated HTML5 - Side Navigation.fltar" Date="2022-06-30T21:42:41.2746468+02:00">
     <Messages>Compiling target HTML5 - Side Navigation...
 Removing previously generated content...
 Loading skin info...
@@ -200,6 +200,22 @@ Processing topic: Exhumation.htm...
 Applying template page OtherTopics.flmsp...
 Generated Exhumation.htm
 Processing topic: Frequently Asked Questions (FAQ).htm...
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png
+Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png
 Applying template page OtherTopics.flmsp...
 Generated Frequently_Asked_Questions__FAQ_.htm
 Processing topic: Bibliography.htm...
@@ -226,8 +242,8 @@ Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
 Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated index.htm
 Saving result set...
-Ignored Compiler Warnings: 4
-Output generated in 23 second(s).
+Ignored Compiler Warnings: 1
+Output generated in 26 second(s).
 
 Done
 Saving log to "C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Output\Asus\HTML5 - Side Navigation\HTML5 - Side Navigation.mclog"
@@ -236,6 +252,22 @@ Saving log to "C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-
         <LogEntry File="../../../Content/Resources/Stylesheets/Styles.css" Message="Missing linked source file: C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/Stylesheets/Styles.css" Message="Missing linked source file: C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="10001" />
         <LogEntry File="../../../Content/Resources/Stylesheets/Styles.css" Message="Missing linked source file: C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\fog-g4065a2ab6_1920.jpg&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="10001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\minus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
+        <LogEntry Message="Image does not exist - C:\Users\Asus\Documents\Flare\Projects\How-to-organise-a-funeral-in-Poland\Content\Resources\Images\Home\plus.png&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5 - Side Navigation" ErrorID="70001" />
     </Warnings>
     <Errors />
 </MadCapLog>
