@@ -529,3 +529,8 @@ MadCap|glossaryTerm
 	}
 }
 
+h1.omit-in-toc
+{
+	mc-heading-level: 0;
+}
+
