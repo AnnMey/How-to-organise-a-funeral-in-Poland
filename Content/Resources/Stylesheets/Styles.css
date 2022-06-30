@@ -395,6 +395,11 @@ p.footer-sub
 	padding-right: 10px;
 }
 
+MadCap|glossaryTerm
+{
+	color: #8b008b;
+}
+
 @media print
 {
 	MadCap|xref
